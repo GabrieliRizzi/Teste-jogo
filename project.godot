@@ -1,0 +1,10 @@
+; Engine configuration file.
+config_version=5
+
+[application]
+config/name="Dodger Starter"
+run/main_scene="res://scenes/main.tscn"
+config/icon="res://icon.svg"
+
+[rendering]
+renderer/rendering_method="mobile"
